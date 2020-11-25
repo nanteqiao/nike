@@ -33,6 +33,7 @@ var mySwiper = new Swiper ('.swiper-container', {
      if (offsetTop - scrollTop < 100) {  
 		  document.querySelector('.wall-header').style.position="fixed";
           document.querySelector('.wall-header').style.top="90";
+		  document.querySelector('.all_pro').style.fontSize='20';
      } else {
 	 	   document.querySelector('.wall-header').style.position="relative";  
 	       document.querySelector('.wall-header').style.top="100";  
@@ -66,8 +67,8 @@ $(function (){
       // console.log(json)
       var goodsStr = ''
       $.each(json,function (index,item){
-        goodsStr += `<div class="details"><img src="${item.imgurl}" >
-			<div class="product-card">
+        goodsStr += `<div class="details "  code="${item.code}" introduction="${item.introduction}" showcolor="${item.showcolor}" showImg01="${item.showImg01}" showImg02="${item.showImg02}" showImg03="${item.showImg03}" showImg04="${item.showImg04}" showImg05="${item.showImg05}" showImg06="${item.showImg06}" showImg07="${item.showImg07}" showImg08="${item.showImg08}" title="${item.title}" type="${item.type} " color="${item.color}" price="${item.price}"><img src="${item.imgurl}" >
+			<div class="product-card" >
 				<div class="product-card_info">
 					<div class="product-card_info_new">
 						${item.new}
@@ -98,7 +99,30 @@ $(function (){
   
 })
 	  
-
+$('.main_center').on('click','.details',function(){
+ //    // console.log(123)
+	var code = $(this).attr('code');
+	var introduction = $(this).attr('introduction');
+	var showcolor = $(this).attr('showcolor');
+	var showImg01 = $(this).attr('showImg01');
+	var showImg02 = $(this).attr('showImg02');
+	var showImg03 = $(this).attr('showImg03');
+	var showImg04 = $(this).attr('showImg04');
+	var showImg05 = $(this).attr('showImg05');
+	var showImg06 = $(this).attr('showImg06');
+	var showImg07 = $(this).attr('showImg07');
+	var showImg08 = $(this).attr('showImg08');
+	var title = $(this).attr('title');
+	var type = $(this).attr('type');
+	var color = $(this).attr('color');
+	var price = $(this).attr('price');
+	var goodsArr = {code:code,introduction:introduction,showImg01:showImg01,showImg02:showImg02,showImg03:showImg03,showImg04:showImg04,showImg05:showImg05,showImg06:showImg06,showImg07:showImg07,showImg08:showImg08,showcolor:showcolor,title:title,type:type,color:color,price:price};
+	// console.log(code);
+	// // localStorage.setItem('temporary',)
+    window.location.href='goods.html';
+    localStorage.setItem('temporary',JSON.stringify(goodsArr));
+     
+})
 
 
 $('.filter-group').on('click','span',function(){
@@ -132,23 +156,5 @@ $('.filter-item i').eq(10).attr('style','background-color:rgb(128, 128, 128)')
 $('.filter-item i').eq(11).attr('style','background-color:rgb(240, 114, 143);')
 
 
-// $('.menu').on('mouseenter','li',function(){
-// 	$(this).parent().attr('style','min-height:200px');
-// 	$.ajax({
-// 	  url: '../productType.json',
-// 	  type: 'get',
-// 	  dataType: 'json',
-// 	  success: function (json){
-// 	    // console.log(json)
-// 	    var goodsStr = ''
-// 	    $.each(json,function (index,item){
-// 	      goodsStr += `<li><a>${item}</a></li>`
-// 	    })
-// 	    $('.showli').html(goodsStr)
-// 	  }
-// 	})
 	
-// })	
-// $('.menu').on('mouseout','li',function(){
-// 	$(this).parent().removeAttr('style','min-height:200px');
-// })	
+

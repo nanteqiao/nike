@@ -1,66 +1,64 @@
 [
-	{"new":"新品上市","title":"Kyrie 7 EP","type":"男子篮球鞋","color":"1种颜色","price":"￥999","imgurl":"img/1606223471.jpg"},
+	{"new":"新品上市","title":"Kyrie 7 EP","type":"男子篮球鞋","color":"1种颜色","price":"￥999","imgurl":"img/1606223471.jpg","code":"DC0589-601","introduction":"无论在球场内外，凯里·欧文都是一名天马行空的创造大师。他的鞋款不但要符合他的进攻表现，而且还要突显他的前卫风范和设计理念。Kyrie 7 EP 男子篮球鞋采用匠心设计，铸就新一代能量回馈、控制和疾速表现，通过优化贴合度、球场脚感和擦板投篮能力，助力不同层次的球员充分发挥其快速起步的优势。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"},
 	{
-	 "new":"新品上市","title":"Nike Air Max Zephyr","type":"男子篮球鞋","color":"1种颜色","price":"￥1399","imgurl":"img/1606223472.jpg"
+	 "new":"新品上市","title":"Nike Air Max Zephyr","type":"男子篮球鞋","color":"1种颜色","price":"￥1399","imgurl":"img/1606223472.jpg","code":"CT1682-001","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":" 暗烟灰/铁灰/活力绿黄","showImg01":"img/CT1682-001-01.jpg","showImg02":"img/CT1682-001-02.jpg","showImg03":"img/CT1682-001-03.jpg","showImg04":"img/CT1682-001-04.jpg","showImg05":"img/CT1682-001-05.jpg","showImg06":"img/CT1682-001-06.jpg","showImg07":"img/CT1682-001-07.jpg","showImg08":"img/CT1682-001-08.jpg"
 	},
 	{
-	 "new":"新品上市","title":"Nike Air VaporMax 2020 FK","type":"女子运动鞋","color":"1种颜色","price":"￥1599","imgurl":"img/1606223473.jpg"
+	 "new":"新品上市","title":"Nike Air VaporMax 2020 FK","type":"女子运动鞋","color":"1种颜色","price":"￥1599","imgurl":"img/1606223473.jpg","code":"CT1933-001","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/CT1933-001-01.jpg","showImg02":"img/CT1933-001-02.jpg","showImg03":"img/CT1933-001-03.jpg","showImg04":"img/CT1933-001-04.jpg","showImg05":"img/CT1933-001-05.jpg","showImg06":"img/CT1933-001-06.jpg","showImg07":"img/CT1933-001-07.jpg","showImg08":"img/CT1933-001-08.jpg"
 	},
 	{
-	 "new":"新品上市","title":"Nike Air Force 1 React LX 3M","type":"男子运动鞋","color":"1种颜色","price":"￥949","imgurl":"img/1606223474.jpg"
+	 "new":"新品上市","title":"Nike Air Force 1 React LX 3M","type":"男子运动鞋","color":"1种颜色","price":"￥949","imgurl":"img/1606223474.jpg","code":"CT3316-003","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/CT3316-003-01.jpg","showImg02":"img/CT3316-003-02.jpg","showImg03":"img/CT3316-003-03.jpg","showImg04":"img/CT3316-003-04.jpg","showImg05":"img/CT3316-003-05.jpg","showImg06":"img/CT3316-003-06.jpg","showImg07":"img/CT3316-003-07.jpg","showImg08":"img/CT3316-003-08.jpg"
 	},
 	{
-	 "new":" ","title":"Nike Air Force 1 High '07 LV8 3M","type":"男子运动鞋","color":"1种颜色","price":"￥849","imgurl":"img/1606223475.jpg"
+	 "new":" ","title":"Nike Air Force 1 High '07 LV8 3M","type":"男子运动鞋","color":"1种颜色","price":"￥849","imgurl":"img/1606223475.jpg","code":"CU4159-100","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/CU4159-100-01.jpg","showImg02":"img/CU4159-100-02.jpg","showImg03":"img/CU4159-100-03.jpg","showImg04":"img/CU4159-100-04.jpg","showImg05":"img/CU4159-100-05.jpg","showImg06":"img/CU4159-100-06.jpg","showImg07":"img/CU4159-100-07.jpg","showImg08":"img/CU4159-100-08.jpg"
 	},
 	{
-	 "new":" ","title":"Nike Air Force 1 '07 LV8","type":"男子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223476.jpg"
+	 "new":" ","title":"Nike Air Force 1 '07 LV8","type":"男子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223476.jpg","code":"CT2299-100","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":" ","title":"Nike Air Force 1 '07 SE","type":"女子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223477.jpg"
+	 "new":" ","title":"Nike Air Force 1 '07 SE","type":"女子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223477.jpg","code":"CT1992-100","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"新品上市","title":"Nike AF1 Shadow SE","type":"女子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223478.jpg"
+	 "new":"新品上市","title":"Nike AF1 Shadow SE","type":"女子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223478.jpg","code":" CT1985-500","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":" ","title":"Nike AF1 Shadow","type":"女子运动鞋","color":"1种颜色","price":"￥899","imgurl":"img/1606223479.jpg"
+	 "new":" ","title":"Nike AF1 Shadow","type":"女子运动鞋","color":"1种颜色","price":"￥899","imgurl":"img/1606223479.jpg","code":"CU8591-001","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":" ","title":"Nike Air Max 90 3M","type":"男子运动鞋","color":"1种颜色","price":"￥849","imgurl":"img/1606223480.jpg"
+	 "new":" ","title":"Nike Air Max 90 3M","type":"男子运动鞋","color":"1种颜色","price":"￥849","imgurl":"img/1606223480.jpg","code":"CZ2975-001","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"新品上市","title":"Kyrie 7 EP","type":"男子篮球鞋","color":"1种颜色","price":"￥999","imgurl":"img/1606223481.jpg"
+	 "new":"新品上市","title":"Kyrie 7 EP","type":"男子篮球鞋","color":"1种颜色","price":"￥999","imgurl":"img/1606223481.jpg","code":"CQ9327-400","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"新品上市","title":"Nike Air Max 95 PRM","type":"女子运动鞋","color":"1种颜色","price":"￥1199","imgurl":"img/1606223482.jpg"
+	 "new":"新品上市","title":"Nike Air Max 95 PRM","type":"女子运动鞋","color":"1种颜色","price":"￥1199","imgurl":"img/1606223482.jpg","code":" DB9577-001","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"","title":"Nike DBreak-Type","type":"男子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223483.jpg"
+	 "new":"","title":"Nike DBreak-Type","type":"男子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223483.jpg","code":" DC3274-064","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"新品上市","title":"Nike DBreak","type":"女子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223484.jpg"
+	 "new":"新品上市","title":"Nike DBreak","type":"女子运动鞋","color":"1种颜色","price":"￥799","imgurl":"img/1606223484.jpg","code":"DC3275-235","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"新品上市","title":"Nike Air Barrage Low","type":"男子运动鞋","color":"1种颜色","price":"￥899","imgurl":"img/1606223485.jpg"
+	 "new":"新品上市","title":"Nike Air Barrage Low","type":"男子运动鞋","color":"1种颜色","price":"￥899","imgurl":"img/1606223485.jpg","code":"CT2290-300","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"","title":"Air Jordan 6 Retro SD","type":"复刻女子运动鞋","color":"1种颜色","price":"￥1599","imgurl":"img/1606223486.jpg"
+	 "new":"","title":"Air Jordan 6 Retro SD","type":"复刻女子运动鞋","color":"1种颜色","price":"￥1599","imgurl":"img/1606223486.jpg","code":"DB9818-001","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"","title":"Nike Lebron VIII QS","type":"男子运动鞋","color":"1种颜色","price":"￥1399","imgurl":"img/1606223487.jpg"
+	 "new":"","title":"Nike Lebron VIII QS","type":"男子运动鞋","color":"1种颜色","price":"￥1399","imgurl":"img/1606223487.jpg","code":"CT5330-600","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"","title":"Air Jordan 7 Retro GC","type":"男子运动鞋","color":"1种颜色","price":"￥1599","imgurl":"img/1606223488.jpg"
+	 "new":"","title":"Air Jordan 7 Retro GC","type":"男子运动鞋","color":"1种颜色","price":"￥1599","imgurl":"img/1606223488.jpg","code":"CW2805-160","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"","title":"Jordan Why Not Zer0.3 SE PF  ","type":"男子篮球鞋","color":"1种颜色","price":"￥849","imgurl":"img/1606223489.jpg"
+	 "new":"","title":"Jordan Why Not Zer0.3 SE PF  ","type":"男子篮球鞋","color":"1种颜色","price":"￥849","imgurl":"img/1606223489.jpg","code":" CK6612-600","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"","title":"Nike Air Zoom BB NXT EP","type":"男/女篮球鞋","color":"1种颜色","price":"￥1199","imgurl":"img/1606223490.jpg"
+	 "new":"","title":"Nike Air Zoom BB NXT EP","type":"男/女篮球鞋","color":"1种颜色","price":"￥1199","imgurl":"img/1606223490.jpg","code":"DB9991-100","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	},
 	{
-	 "new":"","title":"LeBron XVIII EP","type":"男/女篮球鞋","color":"1种颜色","price":"￥1599","imgurl":"img/1606223491.jpg"
+	 "new":"","title":"LeBron XVIII EP","type":"男/女篮球鞋","color":"1种颜色","price":"￥1599","imgurl":"img/1606223491.jpg","code":"CQ9284-004","introduction":"前沿创新设计邂逅非凡舒适脚感，焕新演绎 Nike 的伟大发明。Nike Air Max Zephyr 男子运动鞋采用未来感十足的外观设计，将可视 Air 气囊融入鞋面，同时令你畅享快速体验。利落的运动风版型，结合耐穿的无缝表层和质感出众的透气网眼布，塑就时尚外观；柔软加垫鞋口，缔造舒适自如的迈步体验。","showcolor":"活力紫红/幻影/多色/黑","showImg01":"img/DC0589-601-01.jpg","showImg02":"img/DC0589-601-02.jpg","showImg03":"img/DC0589-601-03.jpg","showImg04":"img/DC0589-601-04.jpg","showImg05":"img/DC0589-601-05.jpg","showImg06":"img/DC0589-601-06.jpg","showImg07":"img/DC0589-601-07.jpg","showImg08":"img/DC0589-601-08.jpg"
 	}
-	
-	
 	
 ]

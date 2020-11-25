@@ -181,13 +181,16 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 	height: 70px;
 	position: relative;
 	
-	z-index: -1;
+	z-index: 5;
 	top: 100px;
 	background-color: #f7f7f7;
 	.swiper-container{
 		width: 770px;
 		height: 100%;
 		margin: 0 auto;
+		// --swiper-theme-color: #ff6600;/* 设置Swiper风格 */
+		// .swiper-navigation-color: #00ff33;/* 单独设置按钮颜色 */
+		// .swiper-navigation-size: 14px;/* 设置按钮大小 */
 		.swiper-slide{
 			text-align: center;
 			font-size: 12px;
@@ -219,6 +222,7 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 	    top: 170px;
 	    min-height: 1000px;
 	    position: absolute;
+		margin-top: 10px;
 	.main_left{
 		    min-width: 240px;
 		    padding: 0px 0px 1em 48px;
@@ -468,4 +472,18 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 			
 		}
 	}
+}
+// .swiper-container{
+//     --swiper-theme-color: #ff6600;/* 设置Swiper风格 */
+//     --swiper-navigation-color: #00ff33;/* 单独设置按钮颜色 */
+//     --swiper-navigation-size: 14px;/* 设置按钮大小 */
+//   }
+
+.login{
+	width: 436px;
+	height: 480px;
+	background-color: #fff;
+	position: fixed;
+	top: 50%;
+	left: 50%;
 }
