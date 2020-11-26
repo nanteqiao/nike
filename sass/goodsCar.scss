@@ -214,7 +214,7 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 			width:720px ;
 			border: 1px solid #757575;
 			padding-left: 15px;
-			}
+			
 			p{
 				color: rgb(250, 84, 0);
 				font-weight: 500;
@@ -225,10 +225,102 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 				font-size: 16px;
 			}
 		}
+		.pro_lists{
+			min-height: 250px;
+			h2{
+				font-size: 22px;
+			}
+			.pro_list{
+				width: 730px;
+				height: 210px;
+				padding: 24px 8px;
+				border-bottom: 1px solid #757575;
+				.pic{
+					float: left;
+					img{
+						width: 150px;
+						height: 150px;
+					}
+				}
+				
+				.pro_mess{
+					float: left;
+					margin-left: 20px;
+					
+					.pro_name{
+						color: #111;
+						font-size: 16px;
+					}
+					.pro_type{
+						color: #757575;
+						font-size: 16px;
+					}
+					.pro_color{
+						color: #757575;
+						font-size: 16px;
+					}
+					.pro_size{
+						float: left;
+					}
+					.pro_num{
+						float: left;
+						margin-left: 40px;
+					}
+					.del{
+						position: absolute;
+						margin-top: 45px;
+						span{
+							text-decoration: underline;
+							cursor: pointer;
+						}
+					}
+				}
+				.pro_price{
+					margin-left: 270px;
+					float: left;
+					span{
+						font-size: 16px;
+					}
+				}
+			}
+		}	
+	}
 		.main_right{
 			width: 350px;
 			height: 350px;
 			float: left;
+			
+			h2{
+				font-size: 22px;
+			}
+			.subtotal{
+				border-bottom: 1px solid #757575;
+				margin-bottom: 10px;
+				
+				p,strong,span{
+					font-size: 16px;
+				}
+				strong{
+					display: inline-block;
+				}
+			}
+			.total{
+				border-bottom: 1px solid #757575;
+				margin-bottom: 10px;
+				p,strong,span{
+					font-size: 16px;
+				}
+				strong{
+					display: inline-block;
+				}
+			}
+			.jiesuan{
+				    width: 320px;
+				    height: 60px;
+				    border-radius: 30px;
+				    background-color: #111;
+				    color: #fff;
+			}
 		}
 	}
 	
