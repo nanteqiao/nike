@@ -35,7 +35,7 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 		.menuDown{
 			float: left;
 			position: relative;
-			left: 1640px;
+			left: 1575px;
 			top: 5px;
 			height: 100%;
 			.dropdown{
@@ -65,17 +65,17 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 		.nikevip{
 			float: left;
 			position: relative;
-			left: 1670px;
+			left: 1585px;
 			top: 5px;
 			a{
 				color: #000;
 				font-size: 14px;
 			}
 		}
-		.login{
+		.login_top{
 			float: left;
 			position: relative;
-			left: 1700px;
+			left: 1590px;
 			top: 5px;
 			a{
 				color: #000;
@@ -148,11 +148,29 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 			font-size: 24px;
 			margin-left: 10px;
 			cursor: pointer;
+			border-radius: 50%;
+			display: inline-block;
+			border-radius: 50%;
+			width: 30px;
+			height: 30px;
+			text-align: center;
+		}
+		.icon-aixin:hover{
+			background-color: #ccc;
 		}
 		.icon-gouwudai{
 			font-size: 24px;
 			margin-left: 10px;
 			cursor: pointer;
+			border-radius: 50%;
+			display: inline-block;
+			border-radius: 50%;
+			width: 30px;
+			height: 30px;
+			text-align: center;
+		}
+		.icon-gouwudai:hover{
+			background-color: #ccc;
 		}
 		.menu:hover {
 			min-height: 200px;
@@ -214,7 +232,7 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 			width:720px ;
 			border: 1px solid #757575;
 			padding-left: 15px;
-			
+			display: none;
 			p{
 				color: rgb(250, 84, 0);
 				font-weight: 500;

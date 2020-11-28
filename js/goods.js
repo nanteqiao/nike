@@ -95,8 +95,8 @@
 				<div class="pro_introduce">
 					<p>${goodsObj.introduction}</p>
 					<ul>
-						<li>显示颜色：${goodsObj.showcolor}</li>
-						<li>款式： ${goodsObj.code}</li>
+						<li class='pro_color'>显示颜色：<span>${goodsObj.showcolor}</span></li>
+						<li class='pro_code'>款式： ${goodsObj.code}</li>
 					</ul>
 					<a href="#">查看产品细节</a>
 				</div>
@@ -244,6 +244,13 @@
 	 	}
 	 	
 	 })
+	 
+	 //点击购物袋跳转
+	 $('.icon-gouwudai').on('click',function(){
+		 window.location.href='goodsCar.html';
+	 })
+	 
+	 
 if(getCookie('linshi')!=null){
 	var linshi = getCookie('linshi');
 	var goodsStr = '';
@@ -411,3 +418,87 @@ $('.quit').on('click',function(){
 	location.reload();
 })
 
+
+//选择尺码
+
+$('.row').on('click','.box-click',function(){
+	// console.log(this);
+	$.each($('.box-click'),function(i,item){
+		item.style.border="1px solid #ccc";
+		
+	})
+	this.style.border="1px solid #000";
+})
+
+//加入购物车
+//先检测登录状态，如果登录拿到用户名，如果没有登录提示用户登录
+
+//登录成功以后，检索本地存储是否为空，为空则创建本地存储，非空则检查是否存有这件产品，如果有给其num+1即可，没有则添加
+
+
+
+$('.joinCar').on('click',function(){
+	//检测是否登录
+	if((localStorage.getItem('mylogin')) || (getCookie('linshi'))){
+
+		var username = JSON.parse(localStorage.getItem('mylogin'))[0].username || getCookie('linshi');
+		var code = JSON.parse(localStorage.getItem('temporary')).code;
+		var pro_type = $('.pro_name h2').html();//男子篮球鞋
+		var pro_name = $('.pro_name b').html();//Kyrie 7 EP
+		var pro_price = $('.pro_price strong').html();//价格
+		var showImg = '../'+ $('.showImg').children().eq(0).attr('src');//展示图片
+		console.log(showImg);
+		var pro_color = $('.pro_color span').html();
+		//获取尺码
+		var sum = 0;
+		var pro_size;
+		$.each($('.box-click'),function(i,item){
+			if(item.style.border === '1px solid rgb(0, 0, 0)'){
+				// console.log(item.innerHTML);
+				 pro_size = item.innerHTML;
+			}else{
+				sum++;
+			}
+		})
+		if(sum === $('.box-click').length){
+			alert('请选择尺码');
+			return
+		}
+		
+		//拿到该条数据，判断本地的goodsCar是否存在，如果存在，再查询是否有该商品的code，如果有，num+1，如果没有，存入
+		
+		//本地goodsCar不存在，则创建并写入数据
+		// user15193034224
+		var myuser = 'user'+username;
+		if(localStorage.getItem(myuser)){//如果本地有user15193034224
+			
+			//遍历查看是否有该产品的code
+			var goodsArr = JSON.parse(localStorage.getItem(myuser));
+			}else{
+				//本地没有user15193034224
+				var goodsArr = [];
+				}
+				var hascode = false;
+		if(goodsArr.length>0){
+				$.each(goodsArr,function(index,item){
+						
+						if(item.code == code){//如果查到了
+							hascode = true;
+							// var num = Number(goodsArr[index].num);
+							item.num++;
+							return false;
+						}
+				})
+			}
+			
+			//遍历结束后看hascode是什么状态
+			if(hascode == false){//如果没查到,即购物车里没有这件东西
+				//插入该条数据
+				goodsArr.push({code:code,type:pro_type,name:pro_name,price:pro_price,showImg:showImg,size:pro_size,color:pro_color,num:1})
+			}
+		localStorage.setItem(myuser,JSON.stringify(goodsArr));
+		alert('已加入购物车');
+	}else{
+		alert('请先登录');
+    }
+})	

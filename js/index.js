@@ -98,6 +98,12 @@ $(function (){
   })
   
 })
+
+//点击购物袋跳转
+	 $('.icon-gouwudai').on('click',function(){
+		 window.location.href='goodsCar.html';
+	 })
+
 if(getCookie('linshi')!=null){
 	var linshi = getCookie('linshi');
 	var goodsStr = '';

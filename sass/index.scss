@@ -148,11 +148,29 @@ body{min-height:100%;margin:0;padding:0;position:relative;}
 			font-size: 24px;
 			margin-left: 10px;
 			cursor: pointer;
+			border-radius: 50%;
+			display: inline-block;
+			border-radius: 50%;
+			width: 30px;
+			height: 30px;
+			text-align: center;
+		}
+		.icon-aixin:hover{
+			background-color: #ccc;
 		}
 		.icon-gouwudai{
 			font-size: 24px;
 			margin-left: 10px;
 			cursor: pointer;
+			border-radius: 50%;
+			display: inline-block;
+			border-radius: 50%;
+			width: 30px;
+			height: 30px;
+			text-align: center;
+		}
+		.icon-gouwudai:hover{
+			background-color: #ccc;
 		}
 		.menu:hover {
 			min-height: 200px;
